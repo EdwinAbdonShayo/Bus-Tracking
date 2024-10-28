@@ -51,4 +51,4 @@ The system will display test results, ensuring that core features are functionin
 **********************************************************************************
 ## Credits
 
-This project was developed by a team including Iman, Lisa, Chima, Razeen, and myself. Our collaborative efforts resulted in a robust, user-friendly Bus Tracking System designed for seamless user interaction and effective bus management.
+This project was developed by a team including Iman (@Imaan-Hayfaa), Lisa, Chima (@Chima200057), Razeen (@razeen46), and Edwin (EdwinAbdonShayo). Our collaborative efforts resulted in a robust, user-friendly Bus Tracking System designed for seamless user interaction and effective bus management.
