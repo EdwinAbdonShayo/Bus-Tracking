@@ -1,27 +1,54 @@
-Project Name: Bus Tracking System
+# Bus Tracking System
 
 **********************************************************************************
-File Structure:
+## Project Overview
 
-main.cpp: Contains the main function and user interface for interacting with the Bus Tracking System.
-bus.cpp: Implements functions related to bus operations, such as adding, searching, deleting, and displaying bus information.
-bus.h: Header file defining the Bus class and function prototypes used in bus.cpp.
-test.cpp: Contains unit tests for testing various functionalities of the Bus Tracking System.
-Makefile: Configuration file for compiling the source code and generating executable files.
+The **Bus Tracking System** is a console-based application designed to manage bus information, enabling users to add, search, delete, and display bus details in an organized way. Developed collaboratively by Iman, Lisa, Chima, Razeen, and Edwin, this project implements a modular structure with separate files for core functionalities, unit tests, and compilation settings.
 
 **********************************************************************************
-Installation:
+## File Structure
 
-Clone the repository from Bitbucket link. (Note: The reader has read access only; modifications cannot be made directly to the repository.)
-Navigate to the project directory in the terminal.
-Run 'make' command to compile the source code and generate the executable files.
-Execute the main executable (bustracking) to interact with the Bus Tracking System.
-Terminal Command = ./bustracking
+- **main.cpp**: Contains the main function and provides the user interface for interacting with the Bus Tracking System.
+- **bus.cpp**: Implements functions for bus operations, including adding, searching, deleting, and displaying bus information.
+- **bus.h**: Header file defining the Bus class and function prototypes used in `bus.cpp`.
+- **test.cpp**: Contains unit tests for verifying various functionalities within the Bus Tracking System.
+- **Makefile**: Configuration file for compiling the source code and generating executable files.
 
 **********************************************************************************
-Usage:
+## Installation
 
-Upon running the main executable, users are presented with a menu to perform various operations such as adding a bus, searching for a bus, displaying available buses, and deleting bus information.
-The system prompts users to input their choice and provides instructions accordingly.
-Unit tests can be executed by running the test executable (testbus), which verifies the functionality of the Bus Tracking System.
-Terminal Command = ./testbus
+1. **Clone the Repository**
+   - Clone the repository from Bitbucket (Note: The repository is read-only; direct modifications are restricted).
+   - Command: `git clone <Bitbucket-link>`
+
+2. **Navigate to the Project Directory**
+   - Move to the project directory in your terminal.
+   - Command: `cd BusTrackingSystem`
+
+3. **Compile the Project**
+   - Use the `make` command to compile the source code and create the executable files.
+   - Command: `make`
+
+4. **Run the Program**
+   - Execute the main application to interact with the Bus Tracking System.
+   - Command: `./bustracking`
+
+**********************************************************************************
+## Usage
+
+Upon running the main executable (`./bustracking`), users are presented with a menu offering several options:
+
+- **Add a Bus**: Enter details to add a new bus to the system.
+- **Search for a Bus**: Look up a specific bus by entering its ID.
+- **Display Available Buses**: View all buses currently stored in the system.
+- **Delete Bus Information**: Remove a bus from the system.
+
+To verify functionality, unit tests are included and can be run with the `./testbus` command:
+- Command: `./testbus`
+
+The system will display test results, ensuring that core features are functioning as expected.
+
+**********************************************************************************
+## Credits
+
+This project was developed by a team including Iman, Lisa, Chima, Razeen, and myself. Our collaborative efforts resulted in a robust, user-friendly Bus Tracking System designed for seamless user interaction and effective bus management.
