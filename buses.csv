@@ -1,0 +1,901 @@
+No.Bus,Departure,Driver,CurrentStation,From,To,ETA
+101,08:00,John Smith,Grand Central,Grand Central,Times Square,08:15
+102,08:10,Amy Johnson,Times Square,Times Square,Penn Station,08:30
+103,08:20,David Lee,Penn Station,Penn Station,Union Square,08:40
+104,08:30,Sarah Brown,Union Square,Union Square,Port Authority,08:45
+105,08:40,Michael Chen,Port Authority,Port Authority,Brooklyn Bridge,09:00
+106,08:50,Emily Davis,Brooklyn Bridge,Brooklyn Bridge,Central Park,09:15
+107,09:00,Matthew Wilson,Central Park,Central Park,Empire State Building,09:20
+108,09:10,Laura Martinez,Empire State Building,Empire State Building,Statue of Liberty,09:30
+109,09:20,Christopher Nguyen,Statue of Liberty,Statue of Liberty,Broadway,09:40
+110,09:30,Michelle Perez,Broadway,Broadway,Wall Street,09:45
+111,09:40,Andrew Taylor,Wall Street,Wall Street,Times Square,10:00
+112,09:50,Jessica Rodriguez,Times Square,Times Square,Grand Central,10:15
+113,10:00,Brian Thomas,Grand Central,Grand Central,Penn Station,10:20
+114,10:10,Stephanie Garcia,Penn Station,Penn Station,Union Square,10:30
+115,10:20,Anthony Hernandez,Union Square,Union Square,Port Authority,10:35
+116,10:30,Danielle Flores,Port Authority,Port Authority,Brooklyn Bridge,10:50
+117,10:40,Mark Sullivan,Brooklyn Bridge,Brooklyn Bridge,Central Park,11:00
+118,10:50,Rachel Lewis,Central Park,Central Park,Empire State Building,11:15
+119,11:00,Joshua Campbell,Empire State Building,Empire State Building,Statue of Liberty,11:30
+120,11:10,Samantha Turner,Statue of Liberty,Statue of Liberty,Broadway,11:40
+121,11:20,Nicholas Reed,Broadway,Broadway,Wall Street,11:45
+122,11:30,Emma Ward,Wall Street,Wall Street,Times Square,12:00
+123,11:40,Kevin Ortiz,Times Square,Times Square,Grand Central,12:15
+124,11:50,Hannah Kim,Grand Central,Grand Central,Penn Station,12:20
+125,12:00,Justin Nguyen,Penn Station,Penn Station,Union Square,12:30
+126,12:10,Amanda Wright,Union Square,Union Square,Port Authority,12:35
+127,12:20,Eric Phillips,Port Authority,Port Authority,Brooklyn Bridge,12:50
+128,12:30,Olivia Carter,Brooklyn Bridge,Brooklyn Bridge,Central Park,13:00
+129,12:40,Nathan Hill,Central Park,Central Park,Empire State Building,13:15
+130,12:50,Rebecca Scott,Empire State Building,Empire State Building,Statue of Liberty,13:30
+131,13:00,Steven Evans,Statue of Liberty,Statue of Liberty,Broadway,13:40
+132,13:10,Katherine Martinez,Broadway,Broadway,Wall Street,13:45
+133,13:20,Brandon Ross,Wall Street,Wall Street,Times Square,14:00
+134,13:30,Alexis Nguyen,Times Square,Times Square,Grand Central,14:15
+135,13:40,Matthew Carter,Grand Central,Grand Central,Penn Station,14:20
+136,13:50,Sarah Garcia,Penn Station,Penn Station,Union Square,14:30
+137,14:00,Jonathan Johnson,Union Square,Union Square,Port Authority,14:35
+138,14:10,Laura Rodriguez,Port Authority,Port Authority,Brooklyn Bridge,14:50
+139,14:20,Christopher Martinez,Brooklyn Bridge,Brooklyn Bridge,Central Park,15:00
+140,14:30,Alyssa Scott,Central Park,Central Park,Empire State Building,15:15
+141,14:40,Joshua Wright,Empire State Building,Empire State Building,Statue of Liberty,15:30
+142,14:50,Emily Lee,Statue of Liberty,Statue of Liberty,Broadway,15:40
+143,15:00,Brandon Davis,Broadway,Broadway,Wall Street,15:45
+144,15:10,Alexis Martinez,Wall Street,Wall Street,Times Square,16:00
+145,15:20,Natalie Clark,Times Square,Times Square,Grand Central,16:15
+146,15:30,Matthew Anderson,Grand Central,Grand Central,Penn Station,16:20
+147,15:40,Samantha Hernandez,Penn Station,Penn Station,Union Square,16:30
+148,15:50,Michael Miller,Union Square,Union Square,Port Authority,16:35
+149,16:00,Amanda Taylor,Port Authority,Port Authority,Brooklyn Bridge,16:50
+150,16:10,Brian Garcia,Brooklyn Bridge,Brooklyn Bridge,Central Park,17:00
+151,16:20,Stephanie Martinez,Central Park,Central Park,Empire State Building,17:15
+152,16:30,Joseph Rodriguez,Empire State Building,Empire State Building,Statue of Liberty,17:30
+153,16:40,Alexander Hernandez,Statue of Liberty,Statue of Liberty,Broadway,17:40
+154,16:50,Emily Scott,Broadway,Broadway,Wall Street,17:45
+155,17:00,Christopher Lee,Wall Street,Wall Street,Times Square,18:00
+156,17:10,Victoria Turner,Times Square,Times Square,Grand Central,18:15
+157,17:20,Jonathan Wright,Grand Central,Grand Central,Penn Station,18:20
+158,17:30,Alyssa Perez,Penn Station,Penn Station,Union Square,18:30
+159,17:40,Nicholas Mitchell,Union Square,Union Square,Port Authority,18:35
+160,17:50,Samantha Hill,Port Authority,Port Authority,Brooklyn Bridge,18:50
+161,18:00,Michael Lewis,Brooklyn Bridge,Brooklyn Bridge,Central Park,19:00
+162,18:10,Rebecca Hernandez,Central Park,Central Park,Empire State Building,19:15
+163,18:20,Andrew Scott,Empire State Building,Empire State Building,Statue of Liberty,19:30
+164,18:30,Natalie Diaz,Statue of Liberty,Statue of Liberty,Broadway,19:40
+165,18:40,Kevin Flores,Broadway,Broadway,Wall Street,19:45
+166,18:50,Jennifer Nguyen,Wall Street,Wall Street,Times Square,20:00
+167,19:00,Joshua Turner,Times Square,Times Square,Grand Central,20:15
+168,19:10,Laura Wilson,Grand Central,Grand Central,Penn Station,20:20
+169,19:20,Daniel Scott,Penn Station,Penn Station,Union Square,20:30
+170,19:30,Olivia Rodriguez,Union Square,Union Square,Port Authority,20:35
+171,19:40,Matthew Clark,Port Authority,Port Authority,Brooklyn Bridge,20:50
+172,19:50,Emma Johnson,Brooklyn Bridge,Brooklyn Bridge,Central Park,21:00
+173,20:00,Brian Lee,Central Park,Central Park,Empire State Building,21:15
+174,20:10,Sarah Anderson,Empire State Building,Empire State Building,Statue of Liberty,21:30
+175,20:20,David Wright,Statue of Liberty,Statue of Liberty,Broadway,21:40
+176,20:30,Natalie Scott,Broadway,Broadway,Wall Street,21:45
+177,20:40,Ryan Hill,Wall Street,Wall Street,Times Square,22:00
+178,20:50,Jessica Turner,Times Square,Times Square,Grand Central,22:15
+179,21:00,Alexander Martinez,Grand Central,Grand Central,Penn Station,22:20
+180,21:10,Hannah White,Penn Station,Penn Station,Union Square,22:30
+181,21:20,Michael Martinez,Union Square,Union Square,Port Authority,22:35
+182,21:30,Amanda Davis,Port Authority,Port Authority,Brooklyn Bridge,22:50
+183,21:40,Joshua Hernandez,Brooklyn Bridge,Brooklyn Bridge,Central Park,23:00
+184,21:50,Rebecca Perez,Central Park,Central Park,Empire State Building,23:15
+185,22:00,Steven Lee,Empire State Building,Empire State Building,Statue of Liberty,23:30
+186,22:10,Stephanie Clark,Statue of Liberty,Statue of Liberty,Broadway,23:40
+187,22:20,Justin Martinez,Broadway,Broadway,Wall Street,23:45
+188,22:30,Samantha Davis,Wall Street,Wall Street,Times Square,00:00
+189,22:40,Joseph Turner,Times Square,Times Square,Grand Central,00:15
+190,22:50,Emily Rodriguez,Grand Central,Grand Central,Penn Station,00:20
+191,23:00,Daniel Lewis,Penn Station,Penn Station,Union Square,00:30
+192,23:10,Amanda Clark,Union Square,Union Square,Port Authority,00:35
+193,23:20,Matthew Johnson,Port Authority,Port Authority,Brooklyn Bridge,00:50
+194,23:30,Olivia Perez,Brooklyn Bridge,Brooklyn Bridge,Central Park,01:00
+195,23:40,Jonathan Garcia,Central Park,Central Park,Empire State Building,01:15
+196,23:50,Natalie Hill,Empire State Building,Empire State Building,Statue of Liberty,01:30
+197,00:00,Christopher Wright,Statue of Liberty,Statue of Liberty,Broadway,01:40
+198,00:10,Victoria Turner,Broadway,Broadway,Wall Street,01:45
+199,00:20,Jonathan Nguyen,Wall Street,Wall Street,Times Square,02:00
+200,00:30,Alyssa Martinez,Times Square,Times Square,Grand Central,02:15
+201,00:40,Nicholas Scott,Grand Central,Grand Central,Penn Station,02:20
+202,00:50,Samantha Rodriguez,Penn Station,Penn Station,Union Square,02:30
+203,01:00,Michael Turner,Union Square,Union Square,Port Authority,02:35
+204,01:10,Emily White,Port Authority,Port Authority,Brooklyn Bridge,02:50
+205,01:20,Matthew Hernandez,Brooklyn Bridge,Brooklyn Bridge,Central Park,03:00
+206,01:30,Stephanie Clark,Central Park,Central Park,Empire State Building,03:15
+207,01:40,Joseph Martinez,Empire State Building,Empire State Building,Statue of Liberty,03:30
+208,01:50,Emma Johnson,Statue of Liberty,Statue of Liberty,Broadway,03:40
+209,02:00,Brandon Lee,Broadway,Broadway,Wall Street,03:45
+210,02:10,Amanda Davis,Wall Street,Wall Street,Times Square,04:00
+211,02:20,David Clark,Times Square,Times Square,Grand Central,04:15
+212,02:30,Olivia Perez,Grand Central,Grand Central,Penn Station,04:20
+213,02:40,Jonathan Garcia,Penn Station,Penn Station,Union Square,04:30
+214,02:50,Stephanie White,Union Square,Union Square,Port Authority,04:35
+215,03:00,Christopher Wright,Port Authority,Port Authority,Brooklyn Bridge,04:50
+216,03:10,Victoria Turner,Brooklyn Bridge,Brooklyn Bridge,Central Park,05:00
+217,03:20,Jonathan Nguyen,Central Park,Central Park,Empire State Building,05:15
+218,03:30,Alyssa Martinez,Empire State Building,Empire State Building,Statue of Liberty,05:30
+219,03:40,Nicholas Scott,Statue of Liberty,Statue of Liberty,Broadway,05:40
+220,03:50,Samantha Rodriguez,Broadway,Broadway,Wall Street,05:45
+221,04:00,Michael Turner,Wall Street,Wall Street,Times Square,06:00
+222,04:10,Emily White,Times Square,Times Square,Grand Central,06:15
+223,04:20,Matthew Hernandez,Grand Central,Grand Central,Penn Station,06:20
+224,04:30,Stephanie Clark,Penn Station,Penn Station,Union Square,06:30
+225,04:40,Joseph Martinez,Union Square,Union Square,Port Authority,06:35
+226,04:50,Emma Johnson,Port Authority,Port Authority,Brooklyn Bridge,06:50
+227,05:00,Brandon Lee,Brooklyn Bridge,Brooklyn Bridge,Central Park,07:00
+228,05:10,Amanda Davis,Central Park,Central Park,Empire State Building,07:15
+229,05:20,David Clark,Empire State Building,Empire State Building,Statue of Liberty,07:30
+230,05:30,Olivia Perez,Statue of Liberty,Statue of Liberty,Broadway,07:40
+231,05:40,Jonathan Garcia,Broadway,Broadway,Wall Street,07:45
+232,05:50,Stephanie White,Wall Street,Wall Street,Times Square,08:00
+233,06:00,Christopher Wright,Times Square,Times Square,Grand Central,08:15
+234,06:10,Victoria Turner,Grand Central,Grand Central,Penn Station,08:20
+235,06:20,Jonathan Nguyen,Penn Station,Penn Station,Union Square,08:30
+236,06:30,Alyssa Martinez,Union Square,Union Square,Port Authority,08:35
+237,06:40,Nicholas Scott,Port Authority,Port Authority,Brooklyn Bridge,08:50
+238,06:50,Samantha Rodriguez,Brooklyn Bridge,Brooklyn Bridge,Central Park,09:00
+239,07:00,Michael Turner,Central Park,Central Park,Empire State Building,09:15
+240,07:10,Emily White,Empire State Building,Empire State Building,Statue of Liberty,09:30
+241,07:20,Matthew Hernandez,Statue of Liberty,Statue of Liberty,Broadway,09:40
+242,07:30,Stephanie Clark,Broadway,Broadway,Wall Street,09:45
+243,07:40,Joseph Martinez,Wall Street,Wall Street,Times Square,10:00
+244,07:50,Emma Johnson,Times Square,Times Square,Grand Central,10:15
+245,08:00,Brandon Lee,Grand Central,Grand Central,Penn Station,10:20
+246,08:10,Amanda Davis,Penn Station,Penn Station,Union Square,10:30
+247,08:20,David Clark,Union Square,Union Square,Port Authority,10:35
+248,08:30,Olivia Perez,Port Authority,Port Authority,Brooklyn Bridge,10:50
+249,08:40,Jonathan Garcia,Brooklyn Bridge,Brooklyn Bridge,Central Park,11:00
+250,08:50,Stephanie White,Central Park,Central Park,Empire State Building,11:15
+251,09:00,Christopher Wright,Empire State Building,Empire State Building,Statue of Liberty,11:30
+252,09:10,Victoria Turner,Statue of Liberty,Statue of Liberty,Broadway,11:40
+253,09:20,Jonathan Nguyen,Broadway,Broadway,Wall Street,11:45
+254,09:30,Alyssa Martinez,Wall Street,Wall Street,Times Square,12:00
+255,09:40,Nicholas Scott,Times Square,Times Square,Grand Central,12:15
+256,09:50,Samantha Rodriguez,Grand Central,Grand Central,Penn Station,12:20
+257,10:00,Michael Turner,Penn Station,Penn Station,Union Square,12:30
+258,10:10,Emily White,Union Square,Union Square,Port Authority,12:35
+259,10:20,Matthew Hernandez,Port Authority,Port Authority,Brooklyn Bridge,12:50
+260,10:30,Stephanie Clark,Brooklyn Bridge,Brooklyn Bridge,Central Park,13:00
+261,10:40,Joseph Martinez,Central Park,Central Park,Empire State Building,13:15
+262,10:50,Emma Johnson,Empire State Building,Empire State Building,Statue of Liberty,13:30
+263,11:00,Brandon Lee,Statue of Liberty,Statue of Liberty,Broadway,13:40
+264,11:10,Amanda Davis,Broadway,Broadway,Wall Street,13:45
+265,11:20,David Clark,Wall Street,Wall Street,Times Square,14:00
+266,11:30,Olivia Perez,Times Square,Times Square,Grand Central,14:15
+267,11:40,Jonathan Garcia,Grand Central,Grand Central,Penn Station,14:20
+268,11:50,Stephanie White,Penn Station,Penn Station,Union Square,14:30
+269,12:00,Christopher Wright,Union Square,Union Square,Port Authority,14:35
+270,12:10,Victoria Turner,Port Authority,Port Authority,Brooklyn Bridge,14:50
+271,12:20,Jonathan Nguyen,Brooklyn Bridge,Brooklyn Bridge,Central Park,15:00
+272,12:30,Alyssa Martinez,Central Park,Central Park,Empire State Building,15:15
+273,12:40,Nicholas Scott,Empire State Building,Empire State Building,Statue of Liberty,15:30
+274,12:50,Samantha Rodriguez,Statue of Liberty,Statue of Liberty,Broadway,15:40
+275,13:00,Michael Turner,Broadway,Broadway,Wall Street,15:45
+276,13:10,Emily White,Wall Street,Wall Street,Times Square,16:00
+277,13:20,Matthew Hernandez,Times Square,Times Square,Grand Central,16:15
+278,13:30,Stephanie Clark,Grand Central,Grand Central,Penn Station,16:20
+279,13:40,Joseph Martinez,Penn Station,Penn Station,Union Square,16:30
+280,13:50,Emma Johnson,Union Square,Union Square,Port Authority,16:35
+281,14:00,Brandon Lee,Port Authority,Port Authority,Brooklyn Bridge,16:50
+282,14:10,Amanda Davis,Brooklyn Bridge,Brooklyn Bridge,Central Park,17:00
+283,14:20,David Clark,Central Park,Central Park,Empire State Building,17:15
+284,14:30,Olivia Perez,Empire State Building,Empire State Building,Statue of Liberty,17:30
+285,14:40,Jonathan Garcia,Statue of Liberty,Statue of Liberty,Broadway,17:40
+286,14:50,Stephanie White,Broadway,Broadway,Wall Street,17:45
+287,15:00,Christopher Wright,Wall Street,Wall Street,Times Square,18:00
+288,15:10,Victoria Turner,Times Square,Times Square,Grand Central,18:15
+289,15:20,Jonathan Nguyen,Grand Central,Grand Central,Penn Station,18:20
+290,15:30,Alyssa Martinez,Penn Station,Penn Station,Union Square,18:30
+291,15:40,Nicholas Scott,Union Square,Union Square,Port Authority,18:35
+292,15:50,Samantha Rodriguez,Port Authority,Port Authority,Brooklyn Bridge,18:50
+293,16:00,Michael Turner,Brooklyn Bridge,Brooklyn Bridge,Central Park,19:00
+294,16:10,Emily White,Central Park,Central Park,Empire State Building,19:15
+295,16:20,Matthew Hernandez,Empire State Building,Empire State Building,Statue of Liberty,19:30
+296,16:30,Stephanie Clark,Statue of Liberty,Statue of Liberty,Broadway,19:40
+297,16:40,Joseph Martinez,Broadway,Broadway,Wall Street,19:45
+298,16:50,Emma Johnson,Wall Street,Wall Street,Times Square,20:00
+299,17:00,Brandon Lee,Times Square,Times Square,Grand Central,20:15
+300,17:10,Amanda Davis,Grand Central,Grand Central,Penn Station,20:20
+301,17:20,David Clark,Penn Station,Penn Station,Union Square,20:30
+302,17:30,Olivia Perez,Union Square,Union Square,Port Authority,20:35
+303,17:40,Jonathan Garcia,Port Authority,Port Authority,Brooklyn Bridge,20:50
+304,17:50,Stephanie White,Brooklyn Bridge,Brooklyn Bridge,Central Park,21:00
+305,18:00,Christopher Wright,Central Park,Central Park,Empire State Building,21:15
+306,18:10,Victoria Turner,Empire State Building,Empire State Building,Statue of Liberty,21:30
+307,18:20,Jonathan Nguyen,Statue of Liberty,Statue of Liberty,Broadway,21:40
+308,18:30,Alyssa Martinez,Broadway,Broadway,Wall Street,21:45
+309,18:40,Nicholas Scott,Wall Street,Wall Street,Times Square,22:00
+310,18:50,Samantha Rodriguez,Times Square,Times Square,Grand Central,22:15
+311,19:00,Michael Turner,Grand Central,Grand Central,Penn Station,22:20
+312,19:10,Emily White,Penn Station,Penn Station,Union Square,22:30
+313,19:20,Matthew Hernandez,Union Square,Union Square,Port Authority,22:35
+314,19:30,Stephanie Clark,Port Authority,Port Authority,Brooklyn Bridge,22:50
+315,19:40,Joseph Martinez,Brooklyn Bridge,Brooklyn Bridge,Central Park,23:00
+316,19:50,Emma Johnson,Central Park,Central Park,Empire State Building,23:15
+317,20:00,Brandon Lee,Empire State Building,Empire State Building,Statue of Liberty,23:30
+318,20:10,Amanda Davis,Statue of Liberty,Statue of Liberty,Broadway,23:40
+319,20:20,David Clark,Broadway,Broadway,Wall Street,23:45
+320,20:30,Olivia Perez,Wall Street,Wall Street,Times Square,00:00
+321,20:40,Jonathan Garcia,Times Square,Times Square,Grand Central,00:15
+322,20:50,Stephanie White,Grand Central,Grand Central,Penn Station,00:20
+323,21:00,Christopher Wright,Penn Station,Penn Station,Union Square,00:30
+324,21:10,Victoria Turner,Union Square,Union Square,Port Authority,00:35
+325,21:20,Jonathan Nguyen,Port Authority,Port Authority,Brooklyn Bridge,00:50
+326,21:30,Alyssa Martinez,Brooklyn Bridge,Brooklyn Bridge,Central Park,01:00
+327,21:40,Nicholas Scott,Central Park,Central Park,Empire State Building,01:15
+328,21:50,Samantha Rodriguez,Empire State Building,Empire State Building,Statue of Liberty,01:30
+329,22:00,Michael Turner,Statue of Liberty,Statue of Liberty,Broadway,01:40
+330,22:10,Emily White,Broadway,Broadway,Wall Street,01:45
+331,22:20,Matthew Hernandez,Wall Street,Wall Street,Times Square,02:00
+332,22:30,Stephanie Clark,Times Square,Times Square,Grand Central,02:15
+333,22:40,Joseph Martinez,Grand Central,Grand Central,Penn Station,02:20
+334,22:50,Emma Johnson,Penn Station,Penn Station,Union Square,02:30
+335,23:00,Brandon Lee,Union Square,Union Square,Port Authority,02:35
+336,23:10,Amanda Davis,Port Authority,Port Authority,Brooklyn Bridge,02:50
+337,23:20,David Clark,Brooklyn Bridge,Brooklyn Bridge,Central Park,03:00
+338,23:30,Olivia Perez,Central Park,Central Park,Empire State Building,03:15
+339,23:40,Jonathan Garcia,Empire State Building,Empire State Building,Statue of Liberty,03:30
+340,23:50,Stephanie White,Statue of Liberty,Statue of Liberty,Broadway,03:40
+341,00:00,Christopher Wright,Broadway,Broadway,Wall Street,03:45
+342,00:10,Victoria Turner,Wall Street,Wall Street,Times Square,04:00
+343,00:20,Jonathan Nguyen,Times Square,Times Square,Grand Central,04:15
+344,00:30,Alyssa Martinez,Grand Central,Grand Central,Penn Station,04:20
+345,00:40,Nicholas Scott,Penn Station,Penn Station,Union Square,04:30
+346,00:50,Samantha Rodriguez,Union Square,Union Square,Port Authority,04:35
+347,01:00,Michael Turner,Port Authority,Port Authority,Brooklyn Bridge,04:50
+348,01:10,Emily White,Brooklyn Bridge,Brooklyn Bridge,Central Park,05:00
+349,01:20,Matthew Hernandez,Central Park,Central Park,Empire State Building,05:15
+350,01:30,Stephanie Clark,Empire State Building,Empire State Building,Statue of Liberty,05:30
+351,01:40,Joseph Martinez,Statue of Liberty,Statue of Liberty,Broadway,05:40
+352,01:50,Emma Johnson,Broadway,Broadway,Wall Street,05:45
+353,02:00,Brandon Lee,Wall Street,Wall Street,Times Square,06:00
+354,02:10,Amanda Davis,Times Square,Times Square,Grand Central,06:15
+355,02:20,David Clark,Grand Central,Grand Central,Penn Station,06:20
+356,02:30,Olivia Perez,Penn Station,Penn Station,Union Square,06:30
+357,02:40,Jonathan Garcia,Union Square,Union Square,Port Authority,06:35
+358,02:50,Stephanie White,Port Authority,Port Authority,Brooklyn Bridge,06:50
+359,03:00,Christopher Wright,Brooklyn Bridge,Brooklyn Bridge,Central Park,07:00
+360,03:10,Victoria Turner,Central Park,Central Park,Empire State Building,07:15
+361,03:20,Jonathan Nguyen,Empire State Building,Empire State Building,Statue of Liberty,07:30
+362,03:30,Alyssa Martinez,Statue of Liberty,Statue of Liberty,Broadway,07:40
+363,03:40,Nicholas Scott,Broadway,Broadway,Wall Street,07:45
+364,03:50,Samantha Rodriguez,Wall Street,Wall Street,Times Square,08:00
+365,04:00,Michael Turner,Times Square,Times Square,Grand Central,08:15
+366,04:10,Emily White,Grand Central,Grand Central,Penn Station,08:20
+367,04:20,Matthew Hernandez,Penn Station,Penn Station,Union Square,08:30
+368,04:30,Stephanie Clark,Union Square,Union Square,Port Authority,08:35
+369,04:40,Joseph Martinez,Port Authority,Port Authority,Brooklyn Bridge,08:50
+370,04:50,Emma Johnson,Brooklyn Bridge,Brooklyn Bridge,Central Park,09:00
+371,05:00,Brandon Lee,Central Park,Central Park,Empire State Building,09:15
+372,05:10,Amanda Davis,Empire State Building,Empire State Building,Statue of Liberty,09:30
+373,05:20,David Clark,Statue of Liberty,Statue of Liberty,Broadway,09:40
+374,05:30,Olivia Perez,Broadway,Broadway,Wall Street,09:45
+375,05:40,Jonathan Garcia,Wall Street,Wall Street,Times Square,10:00
+376,05:50,Stephanie White,Times Square,Times Square,Grand Central,10:15
+377,06:00,Christopher Wright,Grand Central,Grand Central,Penn Station,10:20
+378,06:10,Victoria Turner,Penn Station,Penn Station,Union Square,10:30
+379,06:20,Jonathan Nguyen,Union Square,Union Square,Port Authority,10:35
+380,06:30,Alyssa Martinez,Port Authority,Port Authority,Brooklyn Bridge,10:50
+381,06:40,Nicholas Scott,Brooklyn Bridge,Brooklyn Bridge,Central Park,11:00
+382,06:50,Samantha Rodriguez,Central Park,Central Park,Empire State Building,11:15
+383,07:00,Michael Turner,Empire State Building,Empire State Building,Statue of Liberty,11:30
+384,07:10,Emily White,Statue of Liberty,Statue of Liberty,Broadway,11:40
+385,07:20,Matthew Hernandez,Broadway,Broadway,Wall Street,11:45
+386,07:30,Stephanie Clark,Wall Street,Wall Street,Times Square,12:00
+387,07:40,Joseph Martinez,Times Square,Times Square,Grand Central,12:15
+388,07:50,Emma Johnson,Grand Central,Grand Central,Penn Station,12:20
+389,08:00,Brandon Lee,Penn Station,Penn Station,Union Square,12:30
+390,08:10,Amanda Davis,Union Square,Union Square,Port Authority,12:35
+391,08:20,David Clark,Port Authority,Port Authority,Brooklyn Bridge,12:50
+392,08:30,Olivia Perez,Brooklyn Bridge,Brooklyn Bridge,Central Park,13:00
+393,08:40,Jonathan Garcia,Central Park,Central Park,Empire State Building,13:15
+394,08:50,Stephanie White,Empire State Building,Empire State Building,Statue of Liberty,13:30
+395,09:00,Christopher Wright,Statue of Liberty,Statue of Liberty,Broadway,13:40
+396,09:10,Victoria Turner,Broadway,Broadway,Wall Street,13:45
+397,09:20,Jonathan Nguyen,Wall Street,Wall Street,Times Square,14:00
+398,09:30,Alyssa Martinez,Times Square,Times Square,Grand Central,14:15
+399,09:40,Nicholas Scott,Grand Central,Grand Central,Penn Station,14:20
+400,09:50,Samantha Rodriguez,Penn Station,Penn Station,Union Square,14:30
+401,10:00,Michael Turner,Union Square,Union Square,Port Authority,14:35
+402,10:10,Emily White,Port Authority,Port Authority,Brooklyn Bridge,14:50
+403,10:20,Matthew Hernandez,Brooklyn Bridge,Brooklyn Bridge,Central Park,15:00
+404,10:30,Stephanie Clark,Central Park,Central Park,Empire State Building,15:15
+405,10:40,Joseph Martinez,Empire State Building,Empire State Building,Statue of Liberty,15:30
+406,10:50,Emma Johnson,Statue of Liberty,Statue of Liberty,Broadway,15:40
+407,11:00,Brandon Lee,Broadway,Broadway,Wall Street,15:45
+408,11:10,Amanda Davis,Wall Street,Wall Street,Times Square,16:00
+409,11:20,David Clark,Times Square,Times Square,Grand Central,16:15
+410,11:30,Olivia Perez,Grand Central,Grand Central,Penn Station,16:20
+411,11:40,Jonathan Garcia,Penn Station,Penn Station,Union Square,16:30
+412,11:50,Stephanie White,Union Square,Union Square,Port Authority,16:35
+413,12:00,Christopher Wright,Port Authority,Port Authority,Brooklyn Bridge,16:50
+414,12:10,Victoria Turner,Brooklyn Bridge,Brooklyn Bridge,Central Park,17:00
+415,12:20,Jonathan Nguyen,Central Park,Central Park,Empire State Building,17:15
+416,12:30,Alyssa Martinez,Empire State Building,Empire State Building,Statue of Liberty,17:30
+417,12:40,Nicholas Scott,Statue of Liberty,Statue of Liberty,Broadway,17:40
+418,12:50,Samantha Rodriguez,Broadway,Broadway,Wall Street,17:45
+419,13:00,Michael Turner,Wall Street,Wall Street,Times Square,18:00
+420,13:10,Emily White,Times Square,Times Square,Grand Central,18:15
+421,13:20,Matthew Hernandez,Grand Central,Grand Central,Penn Station,18:20
+422,13:30,Stephanie Clark,Penn Station,Penn Station,Union Square,18:30
+423,13:40,Joseph Martinez,Union Square,Union Square,Port Authority,18:35
+424,13:50,Emma Johnson,Port Authority,Port Authority,Brooklyn Bridge,18:50
+425,14:00,Brandon Lee,Brooklyn Bridge,Brooklyn Bridge,Central Park,19:00
+426,14:10,Amanda Davis,Central Park,Central Park,Empire State Building,19:15
+427,14:20,David Clark,Empire State Building,Empire State Building,Statue of Liberty,19:30
+428,14:30,Olivia Perez,Statue of Liberty,Statue of Liberty,Broadway,19:40
+429,14:40,Jonathan Garcia,Broadway,Broadway,Wall Street,19:45
+430,14:50,Stephanie White,Wall Street,Wall Street,Times Square,20:00
+431,15:00,Christopher Wright,Times Square,Times Square,Grand Central,20:15
+432,15:10,Victoria Turner,Grand Central,Grand Central,Penn Station,20:20
+433,15:20,Jonathan Nguyen,Penn Station,Penn Station,Union Square,20:30
+434,15:30,Alyssa Martinez,Union Square,Union Square,Port Authority,20:35
+435,15:40,Nicholas Scott,Port Authority,Port Authority,Brooklyn Bridge,20:50
+436,15:50,Samantha Rodriguez,Brooklyn Bridge,Brooklyn Bridge,Central Park,21:00
+437,16:00,Michael Turner,Central Park,Central Park,Empire State Building,21:15
+438,16:10,Emily White,Empire State Building,Empire State Building,Statue of Liberty,21:30
+439,16:20,Matthew Hernandez,Statue of Liberty,Statue of Liberty,Broadway,21:40
+440,16:30,Stephanie Clark,Broadway,Broadway,Wall Street,21:45
+441,16:40,Joseph Martinez,Wall Street,Wall Street,Times Square,22:00
+442,16:50,Emma Johnson,Times Square,Times Square,Grand Central,22:15
+443,17:00,Brandon Lee,Grand Central,Grand Central,Penn Station,22:20
+444,17:10,Amanda Davis,Penn Station,Penn Station,Union Square,22:30
+445,17:20,David Clark,Union Square,Union Square,Port Authority,22:35
+446,17:30,Olivia Perez,Port Authority,Port Authority,Brooklyn Bridge,22:50
+447,17:40,Jonathan Garcia,Brooklyn Bridge,Brooklyn Bridge,Central Park,23:00
+448,17:50,Stephanie White,Central Park,Central Park,Empire State Building,23:15
+449,18:00,Christopher Wright,Empire State Building,Empire State Building,Statue of Liberty,23:30
+450,18:10,Victoria Turner,Statue of Liberty,Statue of Liberty,Broadway,23:40
+451,18:20,Jonathan Nguyen,Broadway,Broadway,Wall Street,23:45
+452,18:30,Alyssa Martinez,Wall Street,Wall Street,Times Square,00:00
+453,18:40,Nicholas Scott,Times Square,Times Square,Grand Central,00:15
+454,18:50,Samantha Rodriguez,Grand Central,Grand Central,Penn Station,00:20
+455,19:00,Michael Turner,Penn Station,Penn Station,Union Square,00:30
+456,19:10,Emily White,Union Square,Union Square,Port Authority,00:35
+457,19:20,Matthew Hernandez,Port Authority,Port Authority,Brooklyn Bridge,00:50
+458,19:30,Stephanie Clark,Brooklyn Bridge,Brooklyn Bridge,Central Park,01:00
+459,19:40,Joseph Martinez,Central Park,Central Park,Empire State Building,01:15
+460,19:50,Emma Johnson,Empire State Building,Empire State Building,Statue of Liberty,01:30
+461,20:00,Brandon Lee,Statue of Liberty,Statue of Liberty,Broadway,01:40
+462,20:10,Amanda Davis,Broadway,Broadway,Wall Street,01:45
+463,20:20,David Clark,Wall Street,Wall Street,Times Square,02:00
+464,20:30,Olivia Perez,Times Square,Times Square,Grand Central,02:15
+465,20:40,Jonathan Garcia,Grand Central,Grand Central,Penn Station,02:20
+466,20:50,Stephanie White,Penn Station,Penn Station,Union Square,02:30
+467,21:00,Christopher Wright,Union Square,Union Square,Port Authority,02:35
+468,21:10,Victoria Turner,Port Authority,Port Authority,Brooklyn Bridge,02:50
+469,21:20,Jonathan Nguyen,Brooklyn Bridge,Brooklyn Bridge,Central Park,03:00
+470,21:30,Alyssa Martinez,Central Park,Central Park,Empire State Building,03:15
+471,21:40,Nicholas Scott,Empire State Building,Empire State Building,Statue of Liberty,03:30
+472,21:50,Samantha Rodriguez,Statue of Liberty,Statue of Liberty,Broadway,03:40
+473,22:00,Michael Turner,Broadway,Broadway,Wall Street,03:45
+474,22:10,Emily White,Wall Street,Wall Street,Times Square,04:00
+475,22:20,Matthew Hernandez,Times Square,Times Square,Grand Central,04:15
+476,22:30,Stephanie Clark,Grand Central,Grand Central,Penn Station,04:20
+477,22:40,Joseph Martinez,Penn Station,Penn Station,Union Square,04:30
+478,22:50,Emma Johnson,Union Square,Union Square,Port Authority,04:35
+479,23:00,Brandon Lee,Port Authority,Port Authority,Brooklyn Bridge,04:50
+480,23:10,Amanda Davis,Brooklyn Bridge,Brooklyn Bridge,Central Park,05:00
+481,23:20,David Clark,Central Park,Central Park,Empire State Building,05:15
+482,23:30,Olivia Perez,Empire State Building,Empire State Building,Statue of Liberty,05:30
+483,23:40,Jonathan Garcia,Statue of Liberty,Statue of Liberty,Broadway,05:40
+484,23:50,Stephanie White,Broadway,Broadway,Wall Street,05:45
+485,00:00,Christopher Wright,Wall Street,Wall Street,Times Square,06:00
+486,00:10,Victoria Turner,Times Square,Times Square,Grand Central,06:15
+487,00:20,Jonathan Nguyen,Grand Central,Grand Central,Penn Station,06:20
+488,00:30,Alyssa Martinez,Penn Station,Penn Station,Union Square,06:30
+489,00:40,Nicholas Scott,Union Square,Union Square,Port Authority,06:35
+490,00:50,Samantha Rodriguez,Port Authority,Port Authority,Brooklyn Bridge,06:50
+491,01:00,Michael Turner,Brooklyn Bridge,Brooklyn Bridge,Central Park,07:00
+492,01:10,Emily White,Central Park,Central Park,Empire State Building,07:15
+493,01:20,Matthew Hernandez,Empire State Building,Empire State Building,Statue of Liberty,07:30
+494,01:30,Stephanie Clark,Statue of Liberty,Statue of Liberty,Broadway,07:40
+495,01:40,Joseph Martinez,Broadway,Broadway,Wall Street,07:45
+496,01:50,Emma Johnson,Wall Street,Wall Street,Times Square,08:00
+497,02:00,Brandon Lee,Times Square,Times Square,Grand Central,08:15
+498,02:10,Amanda Davis,Grand Central,Grand Central,Penn Station,08:20
+499,02:20,David Clark,Penn Station,Penn Station,Union Square,08:30
+500,02:30,Olivia Perez,Union Square,Union Square,Port Authority,08:35
+501,02:40,Jonathan Garcia,Port Authority,Port Authority,Brooklyn Bridge,08:50
+502,02:50,Stephanie White,Brooklyn Bridge,Brooklyn Bridge,Central Park,09:00
+503,03:00,Christopher Wright,Central Park,Central Park,Empire State Building,09:15
+504,03:10,Victoria Turner,Empire State Building,Empire State Building,Statue of Liberty,09:30
+505,03:20,Jonathan Nguyen,Statue of Liberty,Statue of Liberty,Broadway,09:40
+506,03:30,Alyssa Martinez,Broadway,Broadway,Wall Street,09:45
+507,03:40,Nicholas Scott,Wall Street,Wall Street,Times Square,10:00
+508,03:50,Samantha Rodriguez,Times Square,Times Square,Grand Central,10:15
+509,04:00,Michael Turner,Grand Central,Grand Central,Penn Station,10:20
+510,04:10,Emily White,Penn Station,Penn Station,Union Square,10:30
+511,04:20,Matthew Hernandez,Union Square,Union Square,Port Authority,10:35
+512,04:30,Stephanie Clark,Port Authority,Port Authority,Brooklyn Bridge,10:50
+513,04:40,Joseph Martinez,Brooklyn Bridge,Brooklyn Bridge,Central Park,11:00
+514,04:50,Emma Johnson,Central Park,Central Park,Empire State Building,11:15
+515,05:00,Brandon Lee,Empire State Building,Empire State Building,Statue of Liberty,11:30
+516,05:10,Amanda Davis,Statue of Liberty,Statue of Liberty,Broadway,11:40
+517,05:20,David Clark,Broadway,Broadway,Wall Street,11:45
+518,05:30,Olivia Perez,Wall Street,Wall Street,Times Square,12:00
+519,05:40,Jonathan Garcia,Times Square,Times Square,Grand Central,12:15
+520,05:50,Stephanie White,Grand Central,Grand Central,Penn Station,12:20
+521,06:00,Christopher Wright,Penn Station,Penn Station,Union Square,12:30
+522,06:10,Victoria Turner,Union Square,Union Square,Port Authority,12:35
+523,06:20,Jonathan Nguyen,Port Authority,Port Authority,Brooklyn Bridge,12:50
+524,06:30,Alyssa Martinez,Brooklyn Bridge,Brooklyn Bridge,Central Park,13:00
+525,06:40,Nicholas Scott,Central Park,Central Park,Empire State Building,13:15
+526,06:50,Samantha Rodriguez,Empire State Building,Empire State Building,Statue of Liberty,13:30
+527,07:00,Michael Turner,Statue of Liberty,Statue of Liberty,Broadway,13:40
+528,07:10,Emily White,Broadway,Broadway,Wall Street,13:45
+529,07:20,Matthew Hernandez,Wall Street,Wall Street,Times Square,14:00
+530,07:30,Stephanie Clark,Times Square,Times Square,Grand Central,14:15
+531,07:40,Joseph Martinez,Grand Central,Grand Central,Penn Station,14:20
+532,07:50,Emma Johnson,Penn Station,Penn Station,Union Square,14:30
+533,08:00,Brandon Lee,Union Square,Union Square,Port Authority,14:35
+534,08:10,Amanda Davis,Port Authority,Port Authority,Brooklyn Bridge,14:50
+535,08:20,David Clark,Brooklyn Bridge,Brooklyn Bridge,Central Park,15:00
+536,08:30,Olivia Perez,Central Park,Central Park,Empire State Building,15:15
+537,08:40,Jonathan Garcia,Empire State Building,Empire State Building,Statue of Liberty,15:30
+538,08:50,Stephanie White,Statue of Liberty,Statue of Liberty,Broadway,15:40
+539,09:00,Christopher Wright,Broadway,Broadway,Wall Street,15:45
+540,09:10,Victoria Turner,Wall Street,Wall Street,Times Square,16:00
+541,09:20,Jonathan Nguyen,Times Square,Times Square,Grand Central,16:15
+542,09:30,Alyssa Martinez,Grand Central,Grand Central,Penn Station,16:20
+543,09:40,Nicholas Scott,Penn Station,Penn Station,Union Square,16:30
+544,09:50,Samantha Rodriguez,Union Square,Union Square,Port Authority,16:35
+545,10:00,Michael Turner,Port Authority,Port Authority,Brooklyn Bridge,16:50
+546,10:10,Emily White,Brooklyn Bridge,Brooklyn Bridge,Central Park,17:00
+547,10:20,Matthew Hernandez,Central Park,Central Park,Empire State Building,17:15
+548,10:30,Stephanie Clark,Empire State Building,Empire State Building,Statue of Liberty,17:30
+549,10:40,Joseph Martinez,Statue of Liberty,Statue of Liberty,Broadway,17:40
+550,10:50,Emma Johnson,Broadway,Broadway,Wall Street,17:45
+551,11:00,Brandon Lee,Wall Street,Wall Street,Times Square,18:00
+552,11:10,Amanda Davis,Times Square,Times Square,Grand Central,18:15
+553,11:20,David Clark,Grand Central,Grand Central,Penn Station,18:20
+554,11:30,Olivia Perez,Penn Station,Penn Station,Union Square,18:30
+555,11:40,Jonathan Garcia,Union Square,Union Square,Port Authority,18:35
+556,11:50,Stephanie White,Port Authority,Port Authority,Brooklyn Bridge,18:50
+557,12:00,Christopher Wright,Brooklyn Bridge,Brooklyn Bridge,Central Park,19:00
+558,12:10,Victoria Turner,Central Park,Central Park,Empire State Building,19:15
+559,12:20,Jonathan Nguyen,Empire State Building,Empire State Building,Statue of Liberty,19:30
+560,12:30,Alyssa Martinez,Statue of Liberty,Statue of Liberty,Broadway,19:40
+561,12:40,Nicholas Scott,Broadway,Broadway,Wall Street,19:45
+562,12:50,Samantha Rodriguez,Wall Street,Wall Street,Times Square,20:00
+563,13:00,Michael Turner,Times Square,Times Square,Grand Central,20:15
+564,13:10,Emily White,Grand Central,Grand Central,Penn Station,20:20
+565,13:20,Matthew Hernandez,Penn Station,Penn Station,Union Square,20:30
+566,13:30,Stephanie Clark,Union Square,Union Square,Port Authority,20:35
+567,13:40,Joseph Martinez,Port Authority,Port Authority,Brooklyn Bridge,20:50
+568,13:50,Emma Johnson,Brooklyn Bridge,Brooklyn Bridge,Central Park,21:00
+569,14:00,Brandon Lee,Central Park,Central Park,Empire State Building,21:15
+570,14:10,Amanda Davis,Empire State Building,Empire State Building,Statue of Liberty,21:30
+571,14:20,David Clark,Statue of Liberty,Statue of Liberty,Broadway,21:40
+572,14:30,Olivia Perez,Broadway,Broadway,Wall Street,21:45
+573,14:40,Jonathan Garcia,Wall Street,Wall Street,Times Square,22:00
+574,14:50,Stephanie White,Times Square,Times Square,Grand Central,22:15
+575,15:00,Christopher Wright,Grand Central,Grand Central,Penn Station,22:20
+576,15:10,Victoria Turner,Penn Station,Penn Station,Union Square,22:30
+577,15:20,Jonathan Nguyen,Union Square,Union Square,Port Authority,22:35
+578,15:30,Alyssa Martinez,Port Authority,Port Authority,Brooklyn Bridge,22:50
+579,15:40,Nicholas Scott,Brooklyn Bridge,Brooklyn Bridge,Central Park,23:00
+580,15:50,Samantha Rodriguez,Central Park,Central Park,Empire State Building,23:15
+581,16:00,Michael Turner,Empire State Building,Empire State Building,Statue of Liberty,23:30
+582,16:10,Emily White,Statue of Liberty,Statue of Liberty,Broadway,23:40
+583,16:20,Matthew Hernandez,Broadway,Broadway,Wall Street,23:45
+584,16:30,Stephanie Clark,Wall Street,Wall Street,Times Square,00:00
+585,16:40,Joseph Martinez,Times Square,Times Square,Grand Central,00:15
+586,16:50,Emma Johnson,Grand Central,Grand Central,Penn Station,00:20
+587,17:00,Brandon Lee,Penn Station,Penn Station,Union Square,00:30
+588,17:10,Amanda Davis,Union Square,Union Square,Port Authority,00:35
+589,17:20,David Clark,Port Authority,Port Authority,Brooklyn Bridge,00:50
+590,17:30,Olivia Perez,Brooklyn Bridge,Brooklyn Bridge,Central Park,01:00
+591,17:40,Jonathan Garcia,Central Park,Central Park,Empire State Building,01:15
+592,17:50,Stephanie White,Empire State Building,Empire State Building,Statue of Liberty,01:30
+593,18:00,Christopher Wright,Statue of Liberty,Statue of Liberty,Broadway,01:40
+594,18:10,Victoria Turner,Broadway,Broadway,Wall Street,01:45
+595,18:20,Jonathan Nguyen,Wall Street,Wall Street,Times Square,02:00
+596,18:30,Alyssa Martinez,Times Square,Times Square,Grand Central,02:15
+597,18:40,Nicholas Scott,Grand Central,Grand Central,Penn Station,02:20
+598,18:50,Samantha Rodriguez,Penn Station,Penn Station,Union Square,02:30
+599,19:00,Michael Turner,Union Square,Union Square,Port Authority,02:35
+600,19:10,Emily White,Port Authority,Port Authority,Brooklyn Bridge,02:50
+601,19:20,Matthew Hernandez,Empire State Building,Statue of Liberty,Broadway,03:00
+602,19:30,Stephanie Clark,Statue of Liberty,Broadway,Wall Street,03:15
+603,19:40,Joseph Martinez,Broadway,Wall Street,Times Square,03:30
+604,19:50,Emma Johnson,Wall Street,Times Square,Grand Central,03:40
+605,20:00,Brandon Lee,Times Square,Grand Central,Penn Station,03:50
+606,20:10,Amanda Davis,Grand Central,Penn Station,Union Square,04:00
+607,20:20,David Clark,Penn Station,Union Square,Port Authority,04:10
+608,20:30,Olivia Perez,Union Square,Port Authority,Brooklyn Bridge,04:20
+609,20:40,Jonathan Garcia,Port Authority,Brooklyn Bridge,Central Park,04:30
+610,20:50,Stephanie White,Brooklyn Bridge,Central Park,Empire State Building,04:40
+611,21:00,Christopher Wright,Central Park,Empire State Building,Statue of Liberty,04:50
+612,21:10,Victoria Turner,Empire State Building,Statue of Liberty,Broadway,05:00
+613,21:20,Jonathan Nguyen,Statue of Liberty,Broadway,Wall Street,05:10
+614,21:30,Alyssa Martinez,Broadway,Wall Street,Times Square,05:20
+615,21:40,Nicholas Scott,Wall Street,Times Square,Grand Central,05:30
+616,21:50,Samantha Rodriguez,Times Square,Grand Central,Penn Station,05:40
+617,22:00,Michael Turner,Grand Central,Penn Station,Union Square,05:50
+618,22:10,Emily White,Penn Station,Union Square,Port Authority,06:00
+619,22:20,Matthew Hernandez,Union Square,Port Authority,Brooklyn Bridge,06:10
+620,22:30,Stephanie Clark,Port Authority,Brooklyn Bridge,Central Park,06:20
+621,22:40,Joseph Martinez,Brooklyn Bridge,Central Park,Empire State Building,06:30
+622,22:50,Emma Johnson,Central Park,Empire State Building,Statue of Liberty,06:40
+623,23:00,Brandon Lee,Empire State Building,Statue of Liberty,Broadway,06:50
+624,23:10,Amanda Davis,Statue of Liberty,Broadway,Wall Street,07:00
+625,23:20,David Clark,Broadway,Wall Street,Times Square,07:10
+626,23:30,Olivia Perez,Wall Street,Times Square,Grand Central,07:20
+627,23:40,Jonathan Garcia,Times Square,Grand Central,Penn Station,07:30
+628,23:50,Stephanie White,Grand Central,Penn Station,Union Square,07:40
+629,00:00,Christopher Wright,Penn Station,Union Square,Port Authority,07:50
+630,00:10,Victoria Turner,Union Square,Port Authority,Brooklyn Bridge,08:00
+631,00:20,Jonathan Nguyen,Port Authority,Brooklyn Bridge,Central Park,08:10
+632,00:30,Alyssa Martinez,Brooklyn Bridge,Central Park,Empire State Building,08:20
+633,00:40,Nicholas Scott,Central Park,Empire State Building,Statue of Liberty,08:30
+634,00:50,Samantha Rodriguez,Empire State Building,Statue of Liberty,Broadway,08:40
+635,01:00,Michael Turner,Statue of Liberty,Broadway,Wall Street,08:50
+636,01:10,Emily White,Broadway,Wall Street,Times Square,09:00
+637,01:20,Matthew Hernandez,Wall Street,Times Square,Grand Central,09:10
+638,01:30,Stephanie Clark,Times Square,Grand Central,Penn Station,09:20
+639,01:40,Joseph Martinez,Grand Central,Penn Station,Union Square,09:30
+640,01:50,Emma Johnson,Penn Station,Union Square,Port Authority,09:40
+641,02:00,Brandon Lee,Union Square,Port Authority,Brooklyn Bridge,09:50
+642,02:10,Amanda Davis,Port Authority,Brooklyn Bridge,Central Park,10:00
+643,02:20,David Clark,Brooklyn Bridge,Central Park,Empire State Building,10:10
+644,02:30,Olivia Perez,Central Park,Empire State Building,Statue of Liberty,10:20
+645,02:40,Jonathan Garcia,Empire State Building,Statue of Liberty,Broadway,10:30
+646,02:50,Stephanie White,Statue of Liberty,Broadway,Wall Street,10:40
+647,03:00,Christopher Wright,Broadway,Wall Street,Times Square,10:50
+648,03:10,Victoria Turner,Wall Street,Times Square,Grand Central,11:00
+649,03:20,Jonathan Nguyen,Times Square,Grand Central,Penn Station,11:10
+650,03:30,Alyssa Martinez,Grand Central,Penn Station,Union Square,11:20
+651,03:40,Nicholas Scott,Penn Station,Union Square,Port Authority,11:30
+652,03:50,Samantha Rodriguez,Union Square,Port Authority,Brooklyn Bridge,11:40
+653,04:00,Michael Turner,Port Authority,Brooklyn Bridge,Central Park,11:50
+654,04:10,Emily White,Brooklyn Bridge,Central Park,Empire State Building,12:00
+655,04:20,Matthew Hernandez,Central Park,Empire State Building,Statue of Liberty,12:10
+656,04:30,Stephanie Clark,Empire State Building,Statue of Liberty,Broadway,12:20
+657,04:40,Joseph Martinez,Statue of Liberty,Broadway,Wall Street,12:30
+658,04:50,Emma Johnson,Broadway,Wall Street,Times Square,12:40
+659,05:00,Brandon Lee,Wall Street,Times Square,Grand Central,12:50
+660,05:10,Amanda Davis,Times Square,Grand Central,Penn Station,13:00
+661,05:20,David Clark,Grand Central,Penn Station,Union Square,13:10
+662,05:30,Olivia Perez,Penn Station,Union Square,Port Authority,13:20
+663,05:40,Jonathan Garcia,Union Square,Port Authority,Brooklyn Bridge,13:30
+664,05:50,Stephanie White,Port Authority,Brooklyn Bridge,Central Park,13:40
+665,06:00,Christopher Wright,Brooklyn Bridge,Central Park,Empire State Building,13:50
+666,06:10,Victoria Turner,Central Park,Empire State Building,Statue of Liberty,14:00
+667,06:20,Jonathan Nguyen,Empire State Building,Statue of Liberty,Broadway,14:10
+668,06:30,Alyssa Martinez,Statue of Liberty,Broadway,Wall Street,14:20
+669,06:40,Nicholas Scott,Broadway,Wall Street,Times Square,14:30
+670,06:50,Samantha Rodriguez,Wall Street,Times Square,Grand Central,14:40
+671,07:00,Michael Turner,Times Square,Grand Central,Penn Station,14:50
+672,07:10,Emily White,Grand Central,Penn Station,Union Square,15:00
+673,07:20,Matthew Hernandez,Penn Station,Union Square,Port Authority,15:10
+674,07:30,Stephanie Clark,Union Square,Port Authority,Brooklyn Bridge,15:20
+675,07:40,Joseph Martinez,Port Authority,Brooklyn Bridge,Central Park,15:30
+676,07:50,Emma Johnson,Brooklyn Bridge,Central Park,Empire State Building,15:40
+677,08:00,Brandon Lee,Central Park,Empire State Building,Statue of Liberty,15:50
+678,08:10,Amanda Davis,Empire State Building,Statue of Liberty,Broadway,16:00
+679,08:20,David Clark,Statue of Liberty,Broadway,Wall Street,16:10
+680,08:30,Olivia Perez,Broadway,Wall Street,Times Square,16:20
+681,08:40,Jonathan Garcia,Wall Street,Times Square,Grand Central,16:30
+682,08:50,Stephanie White,Times Square,Grand Central,Penn Station,16:40
+683,09:00,Christopher Wright,Grand Central,Penn Station,Union Square,16:50
+684,09:10,Victoria Turner,Penn Station,Union Square,Port Authority,17:00
+685,09:20,Jonathan Nguyen,Union Square,Port Authority,Brooklyn Bridge,17:10
+686,09:30,Alyssa Martinez,Port Authority,Brooklyn Bridge,Central Park,17:20
+687,09:40,Nicholas Scott,Brooklyn Bridge,Central Park,Empire State Building,17:30
+688,09:50,Samantha Rodriguez,Central Park,Empire State Building,Statue of Liberty,17:40
+689,10:00,Michael Turner,Empire State Building,Statue of Liberty,Broadway,17:50
+690,10:10,Emily White,Statue of Liberty,Broadway,Wall Street,18:00
+691,10:20,Matthew Hernandez,Broadway,Wall Street,Times Square,18:10
+692,10:30,Stephanie Clark,Wall Street,Times Square,Grand Central,18:20
+693,10:40,Joseph Martinez,Times Square,Grand Central,Penn Station,18:30
+694,10:50,Emma Johnson,Grand Central,Penn Station,Union Square,18:40
+695,11:00,Brandon Lee,Penn Station,Union Square,Port Authority,18:50
+696,11:10,Amanda Davis,Union Square,Port Authority,Brooklyn Bridge,19:00
+697,11:20,David Clark,Port Authority,Brooklyn Bridge,Central Park,19:10
+698,11:30,Olivia Perez,Brooklyn Bridge,Central Park,Empire State Building,19:20
+699,11:40,Jonathan Garcia,Central Park,Empire State Building,Statue of Liberty,19:30
+700,11:50,Stephanie White,Empire State Building,Statue of Liberty,Broadway,19:40
+701,12:00,Christopher Wright,Statue of Liberty,Broadway,Wall Street,19:50
+702,12:10,Victoria Turner,Broadway,Wall Street,Times Square,20:00
+703,12:20,Jonathan Nguyen,Wall Street,Times Square,Grand Central,20:10
+704,12:30,Alyssa Martinez,Times Square,Grand Central,Penn Station,20:20
+705,12:40,Nicholas Scott,Grand Central,Penn Station,Union Square,20:30
+706,12:50,Samantha Rodriguez,Penn Station,Union Square,Port Authority,20:40
+707,13:00,Michael Turner,Union Square,Port Authority,Brooklyn Bridge,20:50
+708,13:10,Emily White,Port Authority,Brooklyn Bridge,Central Park,21:00
+709,13:20,Matthew Hernandez,Brooklyn Bridge,Central Park,Empire State Building,21:10
+710,13:30,Stephanie Clark,Central Park,Empire State Building,Statue of Liberty,21:20
+711,13:40,Joseph Martinez,Empire State Building,Statue of Liberty,Broadway,21:30
+712,13:50,Emma Johnson,Statue of Liberty,Broadway,Wall Street,21:40
+713,14:00,Brandon Lee,Broadway,Wall Street,Times Square,21:50
+714,14:10,Amanda Davis,Wall Street,Times Square,Grand Central,22:00
+715,14:20,David Clark,Times Square,Grand Central,Penn Station,22:10
+716,14:30,Olivia Perez,Grand Central,Penn Station,Union Square,22:20
+717,14:40,Jonathan Garcia,Penn Station,Union Square,Port Authority,22:30
+718,14:50,Stephanie White,Union Square,Port Authority,Brooklyn Bridge,22:40
+719,15:00,Christopher Wright,Port Authority,Brooklyn Bridge,Central Park,22:50
+720,15:10,Victoria Turner,Brooklyn Bridge,Central Park,Empire State Building,23:00
+721,15:20,Jonathan Nguyen,Central Park,Empire State Building,Statue of Liberty,23:10
+722,15:30,Alyssa Martinez,Empire State Building,Statue of Liberty,Broadway,23:20
+723,15:40,Nicholas Scott,Statue of Liberty,Broadway,Wall Street,23:30
+724,15:50,Samantha Rodriguez,Broadway,Wall Street,Times Square,23:40
+725,16:00,Michael Turner,Wall Street,Times Square,Grand Central,23:50
+726,16:10,Emily White,Times Square,Grand Central,Penn Station,00:00
+727,16:20,Matthew Hernandez,Grand Central,Penn Station,Union Square,00:10
+728,16:30,Stephanie Clark,Penn Station,Union Square,Port Authority,00:20
+729,16:40,Joseph Martinez,Union Square,Port Authority,Brooklyn Bridge,00:30
+730,16:50,Emma Johnson,Port Authority,Brooklyn Bridge,Central Park,00:40
+731,17:00,Brandon Lee,Brooklyn Bridge,Central Park,Empire State Building,00:50
+732,17:10,Amanda Davis,Central Park,Empire State Building,Statue of Liberty,01:00
+733,17:20,David Clark,Empire State Building,Statue of Liberty,Broadway,01:10
+734,17:30,Olivia Perez,Statue of Liberty,Broadway,Wall Street,01:20
+735,17:40,Jonathan Garcia,Broadway,Wall Street,Times Square,01:30
+736,17:50,Stephanie White,Wall Street,Times Square,Grand Central,01:40
+737,18:00,Christopher Wright,Times Square,Grand Central,Penn Station,01:50
+738,18:10,Victoria Turner,Grand Central,Penn Station,Union Square,02:00
+739,18:20,Jonathan Nguyen,Penn Station,Union Square,Port Authority,02:10
+740,18:30,Alyssa Martinez,Union Square,Port Authority,Brooklyn Bridge,02:20
+741,18:40,Nicholas Scott,Port Authority,Brooklyn Bridge,Central Park,02:30
+742,18:50,Samantha Rodriguez,Brooklyn Bridge,Central Park,Empire State Building,02:40
+743,19:00,Michael Turner,Central Park,Empire State Building,Statue of Liberty,02:50
+744,19:10,Emily White,Empire State Building,Statue of Liberty,Broadway,03:00
+745,19:20,Matthew Hernandez,Statue of Liberty,Broadway,Wall Street,03:10
+746,19:30,Stephanie Clark,Broadway,Wall Street,Times Square,03:20
+747,19:40,Joseph Martinez,Wall Street,Times Square,Grand Central,03:30
+748,19:50,Emma Johnson,Times Square,Grand Central,Penn Station,03:40
+749,20:00,Brandon Lee,Grand Central,Penn Station,Union Square,03:50
+750,20:10,Amanda Davis,Penn Station,Union Square,Port Authority,04:00
+751,20:20,David Clark,Union Square,Port Authority,Brooklyn Bridge,04:10
+752,20:30,Olivia Perez,Port Authority,Brooklyn Bridge,Central Park,04:20
+753,20:40,Jonathan Garcia,Brooklyn Bridge,Central Park,Empire State Building,04:30
+754,20:50,Stephanie White,Central Park,Empire State Building,Statue of Liberty,04:40
+755,21:00,Christopher Wright,Empire State Building,Statue of Liberty,Broadway,04:50
+756,21:10,Victoria Turner,Statue of Liberty,Broadway,Wall Street,05:00
+757,21:20,Jonathan Nguyen,Broadway,Wall Street,Times Square,05:10
+758,21:30,Alyssa Martinez,Wall Street,Times Square,Grand Central,05:20
+759,21:40,Nicholas Scott,Times Square,Grand Central,Penn Station,05:30
+760,21:50,Samantha Rodriguez,Grand Central,Penn Station,Union Square,05:40
+761,22:00,Michael Turner,Penn Station,Union Square,Port Authority,05:50
+762,22:10,Emily White,Union Square,Port Authority,Brooklyn Bridge,06:00
+763,22:20,Matthew Hernandez,Port Authority,Brooklyn Bridge,Central Park,06:10
+764,22:30,Stephanie Clark,Brooklyn Bridge,Central Park,Empire State Building,06:20
+765,22:40,Joseph Martinez,Central Park,Empire State Building,Statue of Liberty,06:30
+766,22:50,Emma Johnson,Empire State Building,Statue of Liberty,Broadway,06:40
+767,23:00,Brandon Lee,Statue of Liberty,Broadway,Wall Street,06:50
+768,23:10,Amanda Davis,Broadway,Wall Street,Times Square,07:00
+769,23:20,David Clark,Wall Street,Times Square,Grand Central,07:10
+770,23:30,Olivia Perez,Times Square,Grand Central,Penn Station,07:20
+771,23:40,Jonathan Garcia,Grand Central,Penn Station,Union Square,07:30
+772,23:50,Stephanie White,Penn Station,Union Square,Port Authority,07:40
+773,00:00,Christopher Wright,Union Square,Port Authority,Brooklyn Bridge,07:50
+774,00:10,Victoria Turner,Port Authority,Brooklyn Bridge,Central Park,08:00
+775,00:20,Jonathan Nguyen,Brooklyn Bridge,Central Park,Empire State Building,08:10
+776,00:30,Alyssa Martinez,Central Park,Empire State Building,Statue of Liberty,08:20
+777,00:40,Nicholas Scott,Empire State Building,Statue of Liberty,Broadway,08:30
+778,00:50,Samantha Rodriguez,Statue of Liberty,Broadway,Wall Street,08:40
+779,01:00,Michael Turner,Broadway,Wall Street,Times Square,08:50
+780,01:10,Emily White,Wall Street,Times Square,Grand Central,09:00
+781,01:20,Matthew Hernandez,Times Square,Grand Central,Penn Station,09:10
+782,01:30,Stephanie Clark,Grand Central,Penn Station,Union Square,09:20
+783,01:40,Joseph Martinez,Penn Station,Union Square,Port Authority,09:30
+784,01:50,Emma Johnson,Union Square,Port Authority,Brooklyn Bridge,09:40
+785,02:00,Brandon Lee,Port Authority,Brooklyn Bridge,Central Park,09:50
+786,02:10,Amanda Davis,Brooklyn Bridge,Central Park,Empire State Building,10:00
+787,02:20,David Clark,Central Park,Empire State Building,Statue of Liberty,10:10
+788,02:30,Olivia Perez,Empire State Building,Statue of Liberty,Broadway,10:20
+789,02:40,Jonathan Garcia,Statue of Liberty,Broadway,Wall Street,10:30
+790,02:50,Stephanie White,Broadway,Wall Street,Times Square,10:40
+791,03:00,Christopher Wright,Wall Street,Times Square,Grand Central,10:50
+792,03:10,Victoria Turner,Times Square,Grand Central,Penn Station,11:00
+793,03:20,Jonathan Nguyen,Grand Central,Penn Station,Union Square,11:10
+794,03:30,Alyssa Martinez,Penn Station,Union Square,Port Authority,11:20
+795,03:40,Nicholas Scott,Union Square,Port Authority,Brooklyn Bridge,11:30
+796,03:50,Samantha Rodriguez,Port Authority,Brooklyn Bridge,Central Park,11:40
+797,04:00,Michael Turner,Brooklyn Bridge,Central Park,Empire State Building,11:50
+798,04:10,Emily White,Central Park,Empire State Building,Statue of Liberty,12:00
+799,04:20,Matthew Hernandez,Empire State Building,Statue of Liberty,Broadway,12:10
+800,04:30,Stephanie Clark,Statue of Liberty,Broadway,Wall Street,12:20
+801,04:40,Joseph Martinez,Broadway,Wall Street,Times Square,12:30
+802,04:50,Emma Johnson,Wall Street,Times Square,Grand Central,12:40
+803,05:00,Brandon Lee,Times Square,Grand Central,Penn Station,12:50
+804,05:10,Amanda Davis,Grand Central,Penn Station,Union Square,13:00
+805,05:20,David Clark,Penn Station,Union Square,Port Authority,13:10
+806,05:30,Olivia Perez,Union Square,Port Authority,Brooklyn Bridge,13:20
+807,05:40,Jonathan Garcia,Port Authority,Brooklyn Bridge,Central Park,13:30
+808,05:50,Stephanie White,Brooklyn Bridge,Central Park,Empire State Building,13:40
+809,06:00,Christopher Wright,Central Park,Empire State Building,Statue of Liberty,13:50
+810,06:10,Victoria Turner,Empire State Building,Statue of Liberty,Broadway,14:00
+811,06:20,Jonathan Nguyen,Statue of Liberty,Broadway,Wall Street,14:10
+812,06:30,Alyssa Martinez,Broadway,Wall Street,Times Square,14:20
+813,06:40,Nicholas Scott,Wall Street,Times Square,Grand Central,14:30
+814,06:50,Samantha Rodriguez,Times Square,Grand Central,Penn Station,14:40
+815,07:00,Michael Turner,Grand Central,Penn Station,Union Square,14:50
+816,07:10,Emily White,Penn Station,Union Square,Port Authority,15:00
+817,07:20,Matthew Hernandez,Union Square,Port Authority,Brooklyn Bridge,15:10
+818,07:30,Stephanie Clark,Port Authority,Brooklyn Bridge,Central Park,15:20
+819,07:40,Joseph Martinez,Brooklyn Bridge,Central Park,Empire State Building,15:30
+820,07:50,Emma Johnson,Central Park,Empire State Building,Statue of Liberty,15:40
+821,08:00,Brandon Lee,Empire State Building,Statue of Liberty,Broadway,15:50
+822,08:10,Amanda Davis,Statue of Liberty,Broadway,Wall Street,16:00
+823,08:20,David Clark,Broadway,Wall Street,Times Square,16:10
+824,08:30,Olivia Perez,Wall Street,Times Square,Grand Central,16:20
+825,08:40,Jonathan Garcia,Times Square,Grand Central,Penn Station,16:30
+826,08:50,Stephanie White,Grand Central,Penn Station,Union Square,16:40
+827,09:00,Christopher Wright,Penn Station,Union Square,Port Authority,16:50
+828,09:10,Victoria Turner,Union Square,Port Authority,Brooklyn Bridge,17:00
+829,09:20,Jonathan Nguyen,Port Authority,Brooklyn Bridge,Central Park,17:10
+830,09:30,Alyssa Martinez,Brooklyn Bridge,Central Park,Empire State Building,17:20
+831,09:40,Nicholas Scott,Central Park,Empire State Building,Statue of Liberty,17:30
+832,09:50,Samantha Rodriguez,Empire State Building,Statue of Liberty,Broadway,17:40
+833,10:00,Michael Turner,Statue of Liberty,Broadway,Wall Street,17:50
+834,10:10,Emily White,Broadway,Wall Street,Times Square,18:00
+835,10:20,Matthew Hernandez,Wall Street,Times Square,Grand Central,18:10
+836,10:30,Stephanie Clark,Times Square,Grand Central,Penn Station,18:20
+837,10:40,Joseph Martinez,Grand Central,Penn Station,Union Square,18:30
+838,10:50,Emma Johnson,Penn Station,Union Square,Port Authority,18:40
+839,11:00,Brandon Lee,Union Square,Port Authority,Brooklyn Bridge,18:50
+840,11:10,Amanda Davis,Port Authority,Brooklyn Bridge,Central Park,19:00
+841,11:20,David Clark,Brooklyn Bridge,Central Park,Empire State Building,19:10
+842,11:30,Olivia Perez,Central Park,Empire State Building,Statue of Liberty,19:20
+843,11:40,Jonathan Garcia,Empire State Building,Statue of Liberty,Broadway,19:30
+844,11:50,Stephanie White,Statue of Liberty,Broadway,Wall Street,19:40
+845,12:00,Christopher Wright,Broadway,Wall Street,Times Square,19:50
+846,12:10,Victoria Turner,Wall Street,Times Square,Grand Central,20:00
+847,12:20,Jonathan Nguyen,Times Square,Grand Central,Penn Station,20:10
+848,12:30,Alyssa Martinez,Grand Central,Penn Station,Union Square,20:20
+849,12:40,Nicholas Scott,Penn Station,Union Square,Port Authority,20:30
+850,12:50,Samantha Rodriguez,Union Square,Port Authority,Brooklyn Bridge,20:40
+851,13:00,Michael Turner,Port Authority,Brooklyn Bridge,Central Park,20:50
+852,13:10,Emily White,Brooklyn Bridge,Central Park,Empire State Building,21:00
+853,13:20,Matthew Hernandez,Central Park,Empire State Building,Statue of Liberty,21:10
+854,13:30,Stephanie Clark,Empire State Building,Statue of Liberty,Broadway,21:20
+855,13:40,Joseph Martinez,Statue of Liberty,Broadway,Wall Street,21:30
+856,13:50,Emma Johnson,Broadway,Wall Street,Times Square,21:40
+857,14:00,Brandon Lee,Wall Street,Times Square,Grand Central,21:50
+858,14:10,Amanda Davis,Times Square,Grand Central,Penn Station,22:00
+859,14:20,David Clark,Grand Central,Penn Station,Union Square,22:10
+860,14:30,Olivia Perez,Penn Station,Union Square,Port Authority,22:20
+861,14:40,Jonathan Garcia,Union Square,Port Authority,Brooklyn Bridge,22:30
+862,14:50,Stephanie White,Port Authority,Brooklyn Bridge,Central Park,22:40
+863,15:00,Christopher Wright,Brooklyn Bridge,Central Park,Empire State Building,22:50
+864,15:10,Victoria Turner,Central Park,Empire State Building,Statue of Liberty,23:00
+865,15:20,Jonathan Nguyen,Empire State Building,Statue of Liberty,Broadway,23:10
+866,15:30,Alyssa Martinez,Statue of Liberty,Broadway,Wall Street,23:20
+867,15:40,Nicholas Scott,Broadway,Wall Street,Times Square,23:30
+868,15:50,Samantha Rodriguez,Wall Street,Times Square,Grand Central,23:40
+869,16:00,Michael Turner,Times Square,Grand Central,Penn Station,23:50
+870,16:10,Emily White,Grand Central,Penn Station,Union Square,00:00
+871,16:20,Matthew Hernandez,Penn Station,Union Square,Port Authority,00:10
+872,16:30,Stephanie Clark,Union Square,Port Authority,Brooklyn Bridge,00:20
+873,16:40,Joseph Martinez,Port Authority,Brooklyn Bridge,Central Park,00:30
+874,16:50,Emma Johnson,Brooklyn Bridge,Central Park,Empire State Building,00:40
+875,17:00,Brandon Lee,Central Park,Empire State Building,Statue of Liberty,00:50
+876,17:10,Amanda Davis,Empire State Building,Statue of Liberty,Broadway,01:00
+877,17:20,David Clark,Statue of Liberty,Broadway,Wall Street,01:10
+878,17:30,Olivia Perez,Broadway,Wall Street,Times Square,01:20
+879,17:40,Jonathan Garcia,Wall Street,Times Square,Grand Central,01:30
+880,17:50,Stephanie White,Times Square,Grand Central,Penn Station,01:40
+881,18:00,Christopher Wright,Grand Central,Penn Station,Union Square,01:50
+882,18:10,Victoria Turner,Penn Station,Union Square,Port Authority,02:00
+883,18:20,Jonathan Nguyen,Union Square,Port Authority,Brooklyn Bridge,02:10
+884,18:30,Alyssa Martinez,Port Authority,Brooklyn Bridge,Central Park,02:20
+885,18:40,Nicholas Scott,Brooklyn Bridge,Central Park,Empire State Building,02:30
+886,18:50,Samantha Rodriguez,Central Park,Empire State Building,Statue of Liberty,02:40
+887,19:00,Michael Turner,Empire State Building,Statue of Liberty,Broadway,02:50
+888,19:10,Emily White,Statue of Liberty,Broadway,Wall Street,03:00
+889,19:20,Matthew Hernandez,Broadway,Wall Street,Times Square,03:10
+890,19:30,Stephanie Clark,Wall Street,Times Square,Grand Central,03:20
+891,19:40,Joseph Martinez,Times Square,Grand Central,Penn Station,03:30
+892,19:50,Emma Johnson,Grand Central,Penn Station,Union Square,03:40
+893,20:00,Brandon Lee,Penn Station,Union Square,Port Authority,03:50
+894,20:10,Amanda Davis,Union Square,Port Authority,Brooklyn Bridge,04:00
+895,20:20,David Clark,Port Authority,Brooklyn Bridge,Central Park,04:10
+896,20:30,Olivia Perez,Brooklyn Bridge,Central Park,Empire State Building,04:20
+897,20:40,Jonathan Garcia,Central Park,Empire State Building,Statue of Liberty,04:30
+898,20:50,Stephanie White,Empire State Building,Statue of Liberty,Broadway,04:40
+899,21:00,Christopher Wright,Statue of Liberty,Broadway,Wall Street,04:50
+900,21:10,Victoria Turner,Broadway,Wall Street,Times Square,05:00
+901,21:20,Jonathan Nguyen,Wall Street,Times Square,Grand Central,05:10
+902,21:30,Alyssa Martinez,Times Square,Grand Central,Penn Station,05:20
+903,21:40,Nicholas Scott,Grand Central,Penn Station,Union Square,05:30
+904,21:50,Samantha Rodriguez,Penn Station,Union Square,Port Authority,05:40
+905,22:00,Michael Turner,Union Square,Port Authority,Brooklyn Bridge,05:50
+906,22:10,Emily White,Port Authority,Brooklyn Bridge,Central Park,06:00
+907,22:20,Matthew Hernandez,Brooklyn Bridge,Central Park,Empire State Building,06:10
+908,22:30,Stephanie Clark,Central Park,Empire State Building,Statue of Liberty,06:20
+909,22:40,Joseph Martinez,Empire State Building,Statue of Liberty,Broadway,06:30
+910,22:50,Emma Johnson,Statue of Liberty,Broadway,Wall Street,06:40
+911,23:00,Brandon Lee,Broadway,Wall Street,Times Square,06:50
+912,23:10,Amanda Davis,Wall Street,Times Square,Grand Central,07:00
+913,23:20,David Clark,Times Square,Grand Central,Penn Station,07:10
+914,23:30,Olivia Perez,Grand Central,Penn Station,Union Square,07:20
+915,23:40,Jonathan Garcia,Penn Station,Union Square,Port Authority,07:30
+916,23:50,Stephanie White,Union Square,Port Authority,Brooklyn Bridge,07:40
+917,00:00,Christopher Wright,Port Authority,Brooklyn Bridge,Central Park,07:50
+918,00:10,Victoria Turner,Brooklyn Bridge,Central Park,Empire State Building,08:00
+919,00:20,Jonathan Nguyen,Central Park,Empire State Building,Statue of Liberty,08:10
+920,00:30,Alyssa Martinez,Empire State Building,Statue of Liberty,Broadway,08:20
+921,00:40,Nicholas Scott,Statue of Liberty,Broadway,Wall Street,08:30
+922,00:50,Samantha Rodriguez,Broadway,Wall Street,Times Square,08:40
+923,01:00,Michael Turner,Wall Street,Times Square,Grand Central,08:50
+924,01:10,Emily White,Times Square,Grand Central,Penn Station,09:00
+925,01:20,Matthew Hernandez,Grand Central,Penn Station,Union Square,09:10
+926,01:30,Stephanie Clark,Penn Station,Union Square,Port Authority,09:20
+927,01:40,Joseph Martinez,Union Square,Port Authority,Brooklyn Bridge,09:30
+928,01:50,Emma Johnson,Port Authority,Brooklyn Bridge,Central Park,09:40
+929,02:00,Brandon Lee,Brooklyn Bridge,Central Park,Empire State Building,09:50
+930,02:10,Amanda Davis,Central Park,Empire State Building,Statue of Liberty,10:00
+931,02:20,David Clark,Empire State Building,Statue of Liberty,Broadway,10:10
+932,02:30,Olivia Perez,Statue of Liberty,Broadway,Wall Street,10:20
+933,02:40,Jonathan Garcia,Broadway,Wall Street,Times Square,10:30
+934,02:50,Stephanie White,Wall Street,Times Square,Grand Central,10:40
+935,03:00,Christopher Wright,Times Square,Grand Central,Penn Station,10:50
+936,03:10,Victoria Turner,Grand Central,Penn Station,Union Square,11:00
+937,03:20,Jonathan Nguyen,Penn Station,Union Square,Port Authority,11:10
+938,03:30,Alyssa Martinez,Union Square,Port Authority,Brooklyn Bridge,11:20
+939,03:40,Nicholas Scott,Port Authority,Brooklyn Bridge,Central Park,11:30
+940,03:50,Samantha Rodriguez,Brooklyn Bridge,Central Park,Empire State Building,11:40
+941,04:00,Michael Turner,Central Park,Empire State Building,Statue of Liberty,11:50
+942,04:10,Emily White,Empire State Building,Statue of Liberty,Broadway,12:00
+943,04:20,Matthew Hernandez,Statue of Liberty,Broadway,Wall Street,12:10
+944,04:30,Stephanie Clark,Broadway,Wall Street,Times Square,12:20
+945,04:40,Joseph Martinez,Wall Street,Times Square,Grand Central,12:30
+946,04:50,Emma Johnson,Times Square,Grand Central,Penn Station,12:40
+947,05:00,Brandon Lee,Grand Central,Penn Station,Union Square,12:50
+948,05:10,Amanda Davis,Penn Station,Union Square,Port Authority,13:00
+949,05:20,David Clark,Union Square,Port Authority,Brooklyn Bridge,13:10
+950,05:30,Olivia Perez,Port Authority,Brooklyn Bridge,Central Park,13:20
+951,05:40,Jonathan Garcia,Brooklyn Bridge,Central Park,Empire State Building,13:30
+952,05:50,Stephanie White,Central Park,Empire State Building,Statue of Liberty,13:40
+953,06:00,Christopher Wright,Empire State Building,Statue of Liberty,Broadway,13:50
+954,06:10,Victoria Turner,Statue of Liberty,Broadway,Wall Street,14:00
+955,06:20,Jonathan Nguyen,Broadway,Wall Street,Times Square,14:10
+956,06:30,Alyssa Martinez,Wall Street,Times Square,Grand Central,14:20
+957,06:40,Nicholas Scott,Times Square,Grand Central,Penn Station,14:30
+958,06:50,Samantha Rodriguez,Grand Central,Penn Station,Union Square,14:40
+959,07:00,Michael Turner,Penn Station,Union Square,Port Authority,14:50
+960,07:10,Emily White,Union Square,Port Authority,Brooklyn Bridge,15:00
+961,07:20,Matthew Hernandez,Port Authority,Brooklyn Bridge,Central Park,15:10
+962,07:30,Stephanie Clark,Brooklyn Bridge,Central Park,Empire State Building,15:20
+963,07:40,Joseph Martinez,Central Park,Empire State Building,Statue of Liberty,15:30
+964,07:50,Emma Johnson,Empire State Building,Statue of Liberty,Broadway,15:40
+965,08:00,Brandon Lee,Statue of Liberty,Broadway,Wall Street,15:50
+966,08:10,Amanda Davis,Broadway,Wall Street,Times Square,16:00
+967,08:20,David Clark,Wall Street,Times Square,Grand Central,16:10
+968,08:30,Olivia Perez,Times Square,Grand Central,Penn Station,16:20
+969,08:40,Jonathan Garcia,Grand Central,Penn Station,Union Square,16:30
+970,08:50,Stephanie White,Penn Station,Union Square,Port Authority,16:40
+971,09:00,Christopher Wright,Union Square,Port Authority,Brooklyn Bridge,16:50
+972,09:10,Victoria Turner,Port Authority,Brooklyn Bridge,Central Park,17:00
+973,09:20,Jonathan Nguyen,Brooklyn Bridge,Central Park,Empire State Building,17:10
+974,09:30,Alyssa Martinez,Central Park,Empire State Building,Statue of Liberty,17:20
+975,09:40,Nicholas Scott,Empire State Building,Statue of Liberty,Broadway,17:30
+976,09:50,Samantha Rodriguez,Statue of Liberty,Broadway,Wall Street,17:40
+977,10:00,Michael Turner,Broadway,Wall Street,Times Square,17:50
+978,10:10,Emily White,Wall Street,Times Square,Grand Central,18:00
+979,10:20,Matthew Hernandez,Times Square,Grand Central,Penn Station,18:10
+980,10:30,Stephanie Clark,Grand Central,Penn Station,Union Square,18:20
+981,10:40,Joseph Martinez,Penn Station,Union Square,Port Authority,18:30
+982,10:50,Emma Johnson,Union Square,Port Authority,Brooklyn Bridge,18:40
+983,11:00,Brandon Lee,Port Authority,Brooklyn Bridge,Central Park,18:50
+984,11:10,Amanda Davis,Brooklyn Bridge,Central Park,Empire State Building,19:00
+985,11:20,David Clark,Central Park,Empire State Building,Statue of Liberty,19:10
+986,11:30,Olivia Perez,Empire State Building,Statue of Liberty,Broadway,19:20
+987,11:40,Jonathan Garcia,Statue of Liberty,Broadway,Wall Street,19:30
+988,11:50,Stephanie White,Broadway,Wall Street,Times Square,19:40
+989,12:00,Christopher Wright,Wall Street,Times Square,Grand Central,19:50
+990,12:10,Victoria Turner,Times Square,Grand Central,Penn Station,20:00
+991,12:20,Jonathan Nguyen,Grand Central,Penn Station,Union Square,20:10
+992,12:30,Alyssa Martinez,Penn Station,Union Square,Port Authority,20:20
+993,12:40,Nicholas Scott,Union Square,Port Authority,Brooklyn Bridge,20:30
+994,12:50,Samantha Rodriguez,Port Authority,Brooklyn Bridge,Central Park,20:40
+995,13:00,Michael Turner,Brooklyn Bridge,Central Park,Empire State Building,20:50
+996,13:10,Emily White,Central Park,Empire State Building,Statue of Liberty,21:00
+997,13:20,Matthew Hernandez,Empire State Building,Statue of Liberty,Broadway,21:10
+998,13:30,Stephanie Clark,Statue of Liberty,Broadway,Wall Street,21:20
+999,13:40,Joseph Martinez,Broadway,Wall Street,Times Square,21:30
+1000,13:50,Emma Johnson,Wall Street,Times Square,Grand Central,21:40
